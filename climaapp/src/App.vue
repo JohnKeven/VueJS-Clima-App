@@ -81,10 +81,6 @@ body {
   transition: 0.4s;
 }
 
-#app.warm {
-  background-image: url('./assets/warm-bg.jpg');
-}
-
 #app.calor {
   background-image: url('./assets/calor.jpg');
 }
