@@ -1,4 +1,4 @@
-# ClimaApp
+# Clima App
 
 <h2>Site minimalista feito com framework VueJS</h2>
 
